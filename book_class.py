@@ -29,3 +29,6 @@ class Booklist():
 
 		# print sorted titles
 		return(titles)
+
+def count_books(self):
+  return len(self.books)
