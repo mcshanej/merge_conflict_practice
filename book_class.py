@@ -32,3 +32,5 @@ class Booklist():
 
 def remove_title(self, title):
   self.books.remove(title)
+def count_books(self):
+  return len(self.books)
